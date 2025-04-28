@@ -1,3 +1,3 @@
 # My demo website
 
-The is a html only website.
+This is a html only website.
